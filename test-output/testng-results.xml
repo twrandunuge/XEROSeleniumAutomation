@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20614" started-at="2020-03-24T03:02:56 PDT" finished-at="2020-03-24T03:03:17 PDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20614" started-at="2020-03-24T03:02:56 PDT" finished-at="2020-03-24T03:03:17 PDT">
+      <class name="pages.XeroLogin">
+        <test-method status="PASS" signature="CreateReport()[pri:0, instance:pages.XeroLogin@6e6c3152]" name="CreateReport" is-config="true" duration-ms="146" started-at="2020-03-24T03:02:56 PDT" finished-at="2020-03-24T03:02:57 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateReport -->
+        <test-method status="PASS" signature="InitializeDriver()[pri:0, instance:pages.XeroLogin@6e6c3152]" name="InitializeDriver" is-config="true" duration-ms="6426" started-at="2020-03-24T03:02:57 PDT" finished-at="2020-03-24T03:03:03 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeDriver -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:pages.XeroLogin@6e6c3152]" name="OpenApplication" is-config="true" duration-ms="6959" started-at="2020-03-24T03:03:03 PDT" finished-at="2020-03-24T03:03:10 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="loginToApplication()[pri:0, instance:pages.XeroLogin@6e6c3152]" name="loginToApplication" duration-ms="6145" started-at="2020-03-24T03:03:10 PDT" description="ID01 - Navigate to XERO" finished-at="2020-03-24T03:03:16 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method status="PASS" signature="CloseReport()[pri:0, instance:pages.XeroLogin@6e6c3152]" name="CloseReport" is-config="true" duration-ms="244" started-at="2020-03-24T03:03:16 PDT" finished-at="2020-03-24T03:03:16 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseReport -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:pages.XeroLogin@6e6c3152]" name="closeApplication" is-config="true" duration-ms="630" started-at="2020-03-24T03:03:16 PDT" finished-at="2020-03-24T03:03:17 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- pages.XeroLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
